@@ -1,6 +1,14 @@
 # 2024 Fall Learning Analytics Hackathon
 Welcome to the 10th Learning Analytics hackathon. This year, the goal is for you to find creative ways to use Canvas discussion data to improve the teaching or learning experience. Imagine you had data that represented all of the discussion activity in a Canvas course – what would you build?
 
+___
+## Hackathon Idea: Sentiment Analyzer for Discussions
+* Idea: Use natural language processing (NLP) to analyze students' sentiments within discussion threads (positive, negative, neutral). This tool could visualize how the class feels over time or around specific topics.
+* Impact: Instructors could intervene early in discussions if student sentiment trends negatively (e.g., frustration), helping improve engagement and morale.
+* Potential Feature: Provide a "mood heatmap" of the course or identify students at risk of disengagement.
+___
+
+
 ## Before the Hackathon
 * Please **[register](https://events.ctlt.ubc.ca/events/2024-fall-learning-analytics-hackathon/)** for the hackathon if you haven't ready done so.
 * Find a team (we suggest at least 3 per team, with a **maximum of 5**) (you will sign up your team in Canvas once we send the enrolment link). Individual team members **should all register for the event!** 

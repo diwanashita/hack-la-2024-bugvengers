@@ -1,6 +1,5 @@
 # 2024 Fall Learning Analytics Hackathon
 Welcome to the 10th Learning Analytics hackathon. This year, the goal is for you to find creative ways to use Canvas discussion data to improve the teaching or learning experience. Imagine you had data that represented all of the discussion activity in a Canvas course – what would you build?
-## Testing
 
 ___
 ## Hackathon Idea: Sentiment Analyzer for Discussions

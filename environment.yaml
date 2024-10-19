@@ -1,0 +1,12 @@
+name: Bugvengers
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - altair
+  - scikit-learn
+  - scipy
+  - nltk
